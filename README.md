@@ -7,8 +7,8 @@ The horoscope application allows the user to know his prophecy. By choosing the 
   <img width="80%" height="auto" src="img/horoscope.png">
 </p>
 
-The application was written in JavaScript using API.
-The API used in the application comes from Aztro by Sameer Kumar.
+The application was written in JavaScript using API. <br>
+The API used in the application comes from Aztro by Sameer Kumar. <br>
 <i> (link to API: https://rapidapi.com/sameer.kumar/api/aztro) </i>
 
 </h3>
